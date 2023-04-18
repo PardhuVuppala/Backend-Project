@@ -1,0 +1,15 @@
+
+
+
+ #Admin111{
+   background-color: lightblue;
+   min-height: 100vh;
+  
+ }
+.Pardhu{
+  display: flex;
+  justify-content: center;
+}
+.Search{
+  margin-left: 250px;
+}

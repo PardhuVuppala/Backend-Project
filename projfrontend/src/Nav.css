@@ -1,0 +1,29 @@
+
+.nav-item{
+    padding-left: 25px;
+}
+img{
+    border-radius: 25px;
+   
+}
+.Home{
+
+   text-align: center;
+   font-size: 30px;
+   margin-top: 250px;
+
+}
+
+.Pardhu
+{   display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 0%;
+}
+#Pardhu
+{
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 0%;
+}
